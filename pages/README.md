@@ -1,6 +1,6 @@
 ## About
 
-To facilitate research on the effects of opioid withdrawal on sleep, researchers at Harvard Medical School, McLean Hospital, and Brigham & Women's Hospital have released the rat oxycodone withdrawal dataset featured in Gulledge et al. PLOS One. This dataset comprises electroencephalography (EEG) and electromyography (EMG) recordings obtained from male Sprague Dawley rats. The data were collected during an experiment aimed at establishing a comprehensive, temporal signature of spontaneous oxycodone withdrawal effects on sleep-wake cycles and dynamic spectral properties of the EEG in male rats. The dataset includes EEG, EMG, activity counts, and temperature data. Rats were administered either an escalating dose of oxycodone over a 14-day period or a corresponding dose of saline as a control.
+To facilitate research on the effects of opioid withdrawal on sleep, researchers at Harvard Medical School, McLean Hospital, and Brigham & Women's Hospital have released the rat oxycodone withdrawal dataset [featured in Gulledge et al. PLOS One](https://pubmed.ncbi.nlm.nih.gov/39823427/). This dataset comprises electroencephalography (EEG) and electromyography (EMG) recordings obtained from male Sprague Dawley rats. The data were collected during an experiment aimed at establishing a comprehensive, temporal signature of spontaneous oxycodone withdrawal effects on sleep-wake cycles and dynamic spectral properties of the EEG in male rats. The dataset includes EEG, EMG, activity counts, and temperature data. Rats were administered either an escalating dose of oxycodone over a 14-day period or a corresponding dose of saline as a control.
 
 ## Methods
 
@@ -18,15 +18,15 @@ Data is provided for baseline (days 4-6), one day of 8mg/kg oxycodone or the sal
 
 ### Oxy (N=11) OR Saline (N=4)
 
-EDF files exported by Neuroscore (Data Science International, St. Paul, MN) which include one EEG channel and one EMG channel. EEG and EMG data were recorded at an interpolated sampling rate of 500Hz.
+[EDF files exported by Neuroscore](:files_path:/original) (Data Science International, St. Paul, MN) which include one EEG channel and one EMG channel. EEG and EMG data were recorded at an interpolated sampling rate of 500Hz.
 
 ### Sleep Scoring and Behavioral Data/Sleep Staging/Oxy (N=11) OR Saline (N=4)
 
-CSV files containing the manually scored sleep data from the experiment. A "5" denotes Wake, "4" denotes REM, and "3" denotes NREM sleep. (double check)
+[CSV files containing the manually scored sleep data](:files_path:/original/Sleep Scoring and Behavioral Data/Sleep Staging) from the experiment. A "5" denotes Wake, "4" denotes REM, and "3" denotes NREM sleep.
 
 ### Sleep Scoring and Behavioral Data/Temperature and Activity/Oxy (N=11)
 
-CSV files containing the average temperature reading (In Celsius) and summed Activity counts for each 10s bin (please ignore the row 2 headers). Data is provided only for the rats that received oxycodone for each day that was manually scored.
+[CSV files containing the average temperature reading (In Celsius) and summed Activity counts](:files_path:/original/Sleep Scoring and Behavioral Data\Temperature and Activity) for each 10s bin (please ignore the row 2 headers). Data is provided only for the rats that received oxycodone for each day that was manually scored.
 
 ## Access and usage restrictions
 
