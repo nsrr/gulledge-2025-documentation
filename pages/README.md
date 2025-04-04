@@ -26,7 +26,7 @@ Data is provided for baseline (days 4-6), one day of 8mg/kg oxycodone or the sal
 
 ### Sleep Scoring and Behavioral Data/Temperature and Activity/Oxy (N=11)
 
-[CSV files containing the average temperature reading (In Celsius) and summed Activity counts](:files_path:/original/Sleep Scoring and Behavioral Data\Temperature and Activity) for each 10s bin (please ignore the row 2 headers). Data is provided only for the rats that received oxycodone for each day that was manually scored.
+[CSV files containing the average temperature reading (In Celsius) and summed Activity counts](:files_path:/original/Sleep Scoring and Behavioral Data/Temperature and Activity) for each 10s bin (please ignore the row 2 headers). Data is provided only for the rats that received oxycodone for each day that was manually scored.
 
 ## Access and usage restrictions
 
